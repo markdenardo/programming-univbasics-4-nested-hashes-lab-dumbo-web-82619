@@ -71,14 +71,14 @@ def adding_matz
 	programmer_hash = 
  		{     
  		      :yukihiro_matsumoto => {
-  :known_for => "Ruby",
-    :languages => ["LISP", "C"]
+          :known_for => "Ruby",
+          :languages => ["LISP", "C"]
         },
-        :alan_kay => {
+          :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
         },
-        :dennis_ritchie => {
+          :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
         }
